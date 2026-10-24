@@ -80,4 +80,4 @@ data
 
 # Recordar medida de error del modelo
 
-st.warning("El modelo tiene un error del 1% (mape: error porcentual)")
+st.warning("El modelo tiene un error del 5,24% (mape: error porcentual)")
